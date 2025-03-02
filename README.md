@@ -22,3 +22,8 @@ Bu proje, **T5 Transformer modeli** kullanarak haber metinlerini özetlemek içi
 ### Gerekli kütüphaneleri yükleyin:
 ```bash
 pip install transformers torch pandas numpy matplotlib seaborn
+
+### Jupyter Notebook’u çalıştırarak modeli test edin:
+
+```bash
+jupyter notebook transformers-summarization-t5.ipynb
